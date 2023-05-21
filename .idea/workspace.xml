@@ -4,32 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63c95b37-a2d4-4550-bff3-24b573733b35" name="Changes" comment="MyTestTask">
+    <list default="true" id="63c95b37-a2d4-4550-bff3-24b573733b35" name="Changes" comment="Final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nginx.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/configs/jwt/AuthTokenFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/configs/jwt/AuthTokenFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/configs/jwt/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/configs/jwt/JwtUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/controllers/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/controllers/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/controllers/AutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/controllers/AutoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/controllers/CurrencyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/controllers/CurrencyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/AutoSellRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/requests/AutoSellRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/requests/Currency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/JwtResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/requests/JwtResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/requests/LoginRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/MessageResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/requests/MessageResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/SignUpRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/requests/SignUpRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/UpgradeRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/requests/UpgradeRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repository/CarRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repositories/CarRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repository/CurrencyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repositories/CurrencyRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repositories/RoleRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repositories/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/service/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/services/UserDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/service/UserDetailsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/services/UserDetailsImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/service/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/services/UserDetailsServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/service/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/services/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wait-for-it.sh" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +105,7 @@
       <workItem from="1684418633536" duration="12959000" />
       <workItem from="1684509637422" duration="4793000" />
       <workItem from="1684565905471" duration="1485000" />
-      <workItem from="1684652017991" duration="878000" />
+      <workItem from="1684652017991" duration="1480000" />
     </task>
     <task id="LOCAL-00001" summary="MyTestTask">
       <created>1684512631992</created>
@@ -138,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684512631992</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Final">
+      <created>1684660943355</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684660943356</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +129,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MyTestTask" />
-    <option name="LAST_COMMIT_MESSAGE" value="MyTestTask" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
