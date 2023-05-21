@@ -1,4 +1,4 @@
-package com.example.autoriaapi.repository;
+package com.example.autoriaapi.repositories;
 
 
 import com.example.autoriaapi.models.CarUser;
@@ -8,7 +8,6 @@ import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
-import java.util.Optional;
 
 @Repository
 public interface CarRepository extends JpaRepository<CarUser, Long> {

@@ -1,4 +1,4 @@
-package com.example.autoriaapi.pojo;
+package com.example.autoriaapi.requests;
 
 public class MessageResponse {
     private String message;

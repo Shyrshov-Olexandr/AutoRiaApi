@@ -1,10 +1,10 @@
 package com.example.autoriaapi.controllers;
 
 import com.example.autoriaapi.models.*;
-import com.example.autoriaapi.pojo.AutoSellRequest;
-import com.example.autoriaapi.pojo.Currency;
-import com.example.autoriaapi.pojo.MessageResponse;
-import com.example.autoriaapi.repository.*;
+import com.example.autoriaapi.requests.AutoSellRequest;
+import com.example.autoriaapi.requests.Currency;
+import com.example.autoriaapi.requests.MessageResponse;
+import com.example.autoriaapi.repositories.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -4,58 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63c95b37-a2d4-4550-bff3-24b573733b35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/AutoRiaApiApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/DAO/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/configs/jwt/AuthEntryPointJwt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/configs/jwt/AuthTokenFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/configs/jwt/JwtUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/controllers/AuthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/controllers/AutoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/controllers/CurrencyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/controllers/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/models/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/models/CarUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/models/ECurrency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/models/ERole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/models/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/AutoSellRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/JwtResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/LoginRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/MessageResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/SignUpRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/UpgradeRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repository/CarRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repository/CurrencyRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repository/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/service/UserDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/service/UserDetailsImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/service/UserDetailsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/service/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/util/HibernateSessionFactoryUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/import.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wait-for-it.sh" afterDir="false" />
+    <list default="true" id="63c95b37-a2d4-4550-bff3-24b573733b35" name="Changes" comment="MyTestTask">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nginx.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/configs/jwt/AuthTokenFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/configs/jwt/AuthTokenFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/configs/jwt/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/configs/jwt/JwtUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/controllers/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/controllers/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/controllers/AutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/controllers/AutoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/controllers/CurrencyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/controllers/CurrencyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/AutoSellRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/requests/AutoSellRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/requests/Currency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/JwtResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/requests/JwtResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/requests/LoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/MessageResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/requests/MessageResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/SignUpRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/requests/SignUpRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/pojo/UpgradeRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/requests/UpgradeRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repository/CarRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repositories/CarRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repository/CurrencyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repositories/CurrencyRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repositories/RoleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/repositories/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/service/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/services/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/service/UserDetailsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/services/UserDetailsImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/service/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/services/UserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/service/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/autoriaapi/services/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wait-for-it.sh" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,37 +62,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "database.data.extractors.current.export.id": "JSON-Groovy.json.groovy",
-    "database.data.extractors.current.id": "JSON-Groovy.json.groovy",
-    "last_opened_file_path": "D:/Studing/IntelliJ Projects/autoriaapi",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "database.query.execution",
-    "spring.configuration.checksum": "bed01b30599ea575abe8c7425f2021c4",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;JSON-Groovy.json.groovy&quot;,
+    &quot;database.data.extractors.current.id&quot;: &quot;JSON-Groovy.json.groovy&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Studing/IntelliJ Projects/autoriaapi&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;database.query.execution&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;bed01b30599ea575abe8c7425f2021c4&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Studing\IntelliJ Projects\autoriaapi" />
@@ -153,12 +127,26 @@
       <workItem from="1684400767839" duration="12572000" />
       <workItem from="1684418571822" duration="35000" />
       <workItem from="1684418633536" duration="12959000" />
-      <workItem from="1684509637422" duration="2374000" />
+      <workItem from="1684509637422" duration="4793000" />
+      <workItem from="1684565905471" duration="1485000" />
+      <workItem from="1684652017991" duration="878000" />
     </task>
+    <task id="LOCAL-00001" summary="MyTestTask">
+      <created>1684512631992</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684512631992</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MyTestTask" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyTestTask" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
@@ -168,5 +156,8 @@
       </path>
     </expand>
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/autoriaapi$AutoRiaApiApplication.ic" NAME="AutoRiaApiApplication Coverage Results" MODIFIED="1684512784646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

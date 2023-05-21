@@ -4,13 +4,11 @@ import com.example.autoriaapi.configs.jwt.JwtUtils;
 import com.example.autoriaapi.models.ERole;
 import com.example.autoriaapi.models.Role;
 import com.example.autoriaapi.models.User;
-import com.example.autoriaapi.pojo.*;
-import com.example.autoriaapi.repository.RoleRepository;
-import com.example.autoriaapi.repository.UserRepository;
-import com.example.autoriaapi.service.UserDTO;
-import com.example.autoriaapi.service.UserDetailsImpl;
+import com.example.autoriaapi.requests.*;
+import com.example.autoriaapi.repositories.RoleRepository;
+import com.example.autoriaapi.repositories.UserRepository;
+import com.example.autoriaapi.services.UserDetailsImpl;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
@@ -19,13 +17,10 @@ import org.springframework.security.authentication.UsernamePasswordAuthenticatio
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.crypto.password.PasswordEncoder;
-import org.springframework.validation.BindingResult;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.PostConstruct;
-import javax.management.Query;
-import java.sql.Array;
 import java.util.*;
 import java.util.stream.Collectors;
 

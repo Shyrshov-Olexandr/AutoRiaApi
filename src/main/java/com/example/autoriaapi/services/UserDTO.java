@@ -1,4 +1,4 @@
-package com.example.autoriaapi.service;
+package com.example.autoriaapi.services;
 
 import com.example.autoriaapi.models.ERole;
 import com.example.autoriaapi.models.Role;

@@ -1,12 +1,8 @@
-package com.example.autoriaapi.service;
+package com.example.autoriaapi.services;
 
-import com.example.autoriaapi.models.Car;
-import com.example.autoriaapi.models.CarUser;
 import com.example.autoriaapi.models.User;
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import org.springframework.security.config.core.GrantedAuthorityDefaults;
 import org.springframework.security.core.GrantedAuthority;
-import org.springframework.security.core.authority.AuthorityUtils;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 

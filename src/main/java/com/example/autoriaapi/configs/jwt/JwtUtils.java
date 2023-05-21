@@ -2,7 +2,7 @@ package com.example.autoriaapi.configs.jwt;
 
 import java.util.Date;
 
-import com.example.autoriaapi.service.UserDetailsImpl;
+import com.example.autoriaapi.services.UserDetailsImpl;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Component;

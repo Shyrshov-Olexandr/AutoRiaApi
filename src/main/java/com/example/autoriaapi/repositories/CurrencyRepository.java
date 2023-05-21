@@ -1,6 +1,6 @@
-package com.example.autoriaapi.repository;
+package com.example.autoriaapi.repositories;
 
-import com.example.autoriaapi.pojo.Currency;
+import com.example.autoriaapi.requests.Currency;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

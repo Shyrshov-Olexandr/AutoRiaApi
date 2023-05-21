@@ -1,4 +1,4 @@
-package com.example.autoriaapi.pojo;
+package com.example.autoriaapi.requests;
 
 import java.util.Set;
 

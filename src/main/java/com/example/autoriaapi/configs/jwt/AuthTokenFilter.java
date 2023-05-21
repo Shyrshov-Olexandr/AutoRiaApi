@@ -4,7 +4,7 @@ import java.io.IOException;
 
 
 
-import com.example.autoriaapi.service.UserDetailsServiceImpl;
+import com.example.autoriaapi.services.UserDetailsServiceImpl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
